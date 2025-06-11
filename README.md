@@ -1,1 +1,1 @@
-PNG Images for Google
+PNG Images
