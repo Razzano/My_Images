@@ -1,0 +1,30 @@
+  const IMAGES = {
+    logo1: _aURL + 'logoGoogle.png',
+    logo2: _aURL + 'imageGoogle.png',
+    logo3: _aURL + 'world.png',
+    logo4: _aURL + 'search8.png',
+    logo5: _aURL + 'silverG.png',
+    logo6: _aURL + 'googleLogo12.png',
+    logo7: _aURL + 'bulb.png',
+    logo8: _aURL + 'search3.png',
+    logo9: _aURL + 'googleLogo15.png',
+    logo10: _aURL + 'googleLogo17.png',
+    logo11: _aURL + 'flag.png',
+    logo12: _aURL + 'face2.png',
+    logo13: _aURL + 'eagle6.png',
+    logo14: _aURL + 'monkey1.png',
+    logo15: _aURL + 'globe2.png',
+    logo16: _aURL + 'eyes7.png',
+    logo17: '',
+  };
+
+  const LOGO_CONFIG = {
+    3: { marginTop: '15px', transform: 'translateX(-50%)' },
+    4: { marginTop: '64px', transform: 'translateX(-50%)' },
+    5: { marginTop: '5px', transform: 'translateX(-50%)' },
+    7: { marginTop: '25px', transform: 'translateX(-50%)' },
+    8: { marginTop: '60px', transform: 'translateX(-180%)' },
+    12: { marginTop: '5px', transform: 'translateX(-50%)' },
+    13: { marginTop: '15px', transform: 'translateX(-50%)' },
+    15: { marginTop: '25px', transform: 'translateX(-50%)' },
+  };
